@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-agency3",
+      "appliesTo": "_agency/agency3.html",
+      "type": "launch"
+    }
+  ]
+}
