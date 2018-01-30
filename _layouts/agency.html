@@ -1,0 +1,13 @@
+---
+layout: page
+---
+{% if page.nodeid %}
+  <script>var nodeid = "{{ page.nodeid }}";</script>
+{% endif %}
+
+<article class="agency">
+    {% include agency_details.html %}
+    
+
+</article>
+<script src="{{ "/assets/js/agency.js" | prepend: site.baseurl  }}"></script>
