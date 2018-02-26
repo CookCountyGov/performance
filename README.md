@@ -3,4 +3,5 @@ Prototyping new Performance website
 
 Using:
 * Jekyll
-* Socrata
+* jQuery
+* Socrata API
